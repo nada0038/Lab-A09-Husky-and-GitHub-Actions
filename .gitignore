@@ -1,4 +1,4 @@
-node_modules/
+so allenode_modules/
 .terraform/
 *.tfstate
 *.tfstate.backup
